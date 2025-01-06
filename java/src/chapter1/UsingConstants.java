@@ -12,7 +12,7 @@ public class UsingConstants {
         double HoursWorked;
         char position;
         final int CurrentYear =2025;
-        final String CompanyName = "iLAB Quality";
+        //final String CompanyName = "iLAB Quality";
         final double HourlyRate = 350;
 
         String newline = "\n";

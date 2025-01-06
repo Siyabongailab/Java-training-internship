@@ -13,7 +13,7 @@ public class GetInputFromUser {
         char position;
         double taxDeduction;
         final int CurrentYear =2025;
-        final String CompanyName = "iLAB Quality";
+        //final String CompanyName = "iLAB Quality";
         final double HourlyRate = 350;
         final double Taxrate = 0.35;
 
