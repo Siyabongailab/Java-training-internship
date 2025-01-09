@@ -2,7 +2,7 @@ public class GenericMethods {
 
     public static  void main(String[] args){
         DisplayNumbers(5,7);
-
+        GenericMethods.<Integer>DisplayNumbers(4,6); //call the class within its self
     }
         //generics-> T represents any type
        static <T> void DisplayNumbers(T x, T y){

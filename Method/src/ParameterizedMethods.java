@@ -30,8 +30,8 @@ public class ParameterizedMethods {
         return total;
     }
 
-//store any number of integers..
-    static int SAum(int... numbers) {
+//store any number of integers.. need to learn more and revisit
+    static int num(int... numbers) {
         int tot = 0;
 
         for (int num : numbers) {
